@@ -35,6 +35,7 @@ gggg
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdfsdfsdfsdfsdf
 =======
 fdsa
@@ -46,3 +47,9 @@ dldldldldldl
 zip e gago sip da
 
 a be go pu da
+=======
+fdsa
+
+
+#2 피처에서 작업
+>>>>>>> 0c41a8f4f140f04acb3f3d722a949b56061640c6
