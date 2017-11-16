@@ -35,6 +35,7 @@ gggg
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdfsdfsdfsdfsdf
 =======
 fdsa
@@ -42,3 +43,9 @@ fdsa
 >>>>>>> ef9824336f006304137287509fb70a013c68dbe3
 >>>>>>> f9757ad8f757d2c2fe7fe467c4eb8b19b858efda
 dldldldldldl
+=======
+fdsa
+
+
+#2 피처에서 작업
+>>>>>>> feature/#2
