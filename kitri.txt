@@ -5,4 +5,8 @@
 
 피처 3
 
+<<<<<<< HEAD
 please - seonmin
+=======
+수정합니다.
+>>>>>>> 6011a6d471a4154a0dd39be479fd0d4e7aebb9b1
